@@ -1,0 +1,23 @@
+{
+	"type": "process",
+	"name": "0.20mm Standard @Creality CR-30 Klipper",
+	"inherits": "fdm_process_common_klipper",
+	"from": "system",
+	"setting_id": "x1MjSB3s2vzkhz4A",
+	"instantiation": "true",
+	"layer_height": "0.2",
+	"initial_layer_print_height": "0.2",
+	"skirt_loops": "0",
+	"enable_prime_tower": "0",
+	"brim_type": "leading_edge_only",
+	"brim_width": "5",
+	"brim_object_gap": "0",
+	"initial_layer_speed": "12",
+	"initial_layer_infill_speed": "12",
+	"inner_wall_speed": "35",
+	"sparse_infill_speed": "35",
+	"travel_speed": "100",
+	"compatible_printers": [
+		"Creality CR-30 Klipper 0.4 nozzle"
+	]
+}

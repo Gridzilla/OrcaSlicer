@@ -1,0 +1,13 @@
+{
+	"type": "machine_model",
+	"name": "Creality CR-30 Klipper",
+	"nozzle_diameter": "0.4",
+	"bed_model": "",
+	"default_bed_type": "High Temp Plate",
+	"bed_texture": "",
+	"family": "Creality",
+	"hotend_model": "",
+	"machine_tech": "FFF",
+	"model_id": "Creality_CR_30_Klipper",
+	"default_materials": "Generic PLA @Creality CR-30 Klipper"
+}
